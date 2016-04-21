@@ -1,0 +1,36 @@
+{
+  "name": "sux-hosting-server",
+  "version": "0.1.0",
+  "description": "Hosting Server built in Node.js.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "chai": "^3.5.0",
+    "chai-http": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyNameReallySux/sux-hosting-server.git"
+  },
+  "keywords": [
+    "npm",
+    "host",
+    "hosting",
+    "server"
+  ],
+  "author": "Chris Coppola <chris.coppola315@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyNameReallySux/sux-hosting-server/issues"
+  },
+  "homepage": "https://github.com/MyNameReallySux/sux-hosting-server"
+}
